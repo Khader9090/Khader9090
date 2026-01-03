@@ -42,9 +42,9 @@
 class KhaderEid extends Developer { 
   const myStack = {  
     "MobileDev" : { "Flutter", "Dart", "Android", "iOS" },
-    "UI_UX_Design" : { "Figma", "Adobe XD", "Photoshop", "Prototyping" },
+    "UI_UX_Design" : { "Figma", "Adobe XD" },
     "Backend_Basics" : { "Firebase", "SQLite", "REST APIs" },
     "Tools" : { "Git", "Postman", "VS Code", "Android Studio" },
-    "Languages" : { "Dart", "Java", "Python" }
+    "Languages" : { "Dart", "Java"  }
   };
 }
