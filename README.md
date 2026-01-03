@@ -45,6 +45,6 @@ class KhaderEid extends Developer {
     "UI_UX_Design" : { "Figma", "Adobe XD", "Photoshop", "Prototyping" },
     "Backend_Basics" : { "Firebase", "SQLite", "REST APIs" },
     "Tools" : { "Git", "Postman", "VS Code", "Android Studio" },
-    "Languages" : { "Dart", "Java", "Python" }
+    "Languages" : { "Dart", "Java" }
   };
 }
